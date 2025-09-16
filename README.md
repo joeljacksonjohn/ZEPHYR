@@ -38,12 +38,4 @@ This project demonstrates the use of **IoT sensors and embedded systems** to ens
 - Arduino IDE installed  
 - Required libraries: `DHT`, `MQUnifiedsensor` (if used)  
 
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/zephyr-smoke-weather.git
-2.Open the .ino file in Arduino IDE.
 
-3.Connect your Arduino/ESP32 board via USB.
-
-4.Upload the code and monitor sensor outputs via the Serial Monitor.
